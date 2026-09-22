@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-Me chamo Sabrina Teixeira e atualmente estou cursando bacharelado em Ciência da Computação na Universidade Federal de Ouro Preto (UFOP). Sou apaixonada por tecnologia, programação e resolução de problemas, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades no desenvolvimento de software.
+Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computação na Universidade Federal de Ouro Preto (UFOP). Tenho interesse em desenvolvimento de software, análise de dados e tecnologia. Atualmente, busco desenvolver projetos que me permitam aplicar na prática os conhecimentos adquiridos na graduação e em cursos complementares, sempre buscando evoluir como desenvolvedora.
 
 ---
 ### 🤖 Linguagens e Tecnologias
