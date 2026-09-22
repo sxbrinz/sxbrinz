@@ -1,6 +1,6 @@
 # Sabrina Teixeira
 
-**`Aspirante a Dev`**
+**`Computer Science Student`**
 
 Me chamo Sabrina Teixeira e atualmente estou cursando bacharelado em Ciência da Computação na Universidade Federal de Ouro Preto (UFOP). Sou apaixonada por tecnologia, programação e resolução de problemas, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades no desenvolvimento de software.
 
