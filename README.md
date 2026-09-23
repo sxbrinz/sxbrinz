@@ -28,7 +28,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 20px;" 
+    style="padding-right:50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
