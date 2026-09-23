@@ -12,7 +12,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     alt="C"
     title="C" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
@@ -20,7 +20,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     alt="C++" 
     title="C++" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
@@ -28,7 +28,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -36,7 +36,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     alt="SQL" 
     title="SQL"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
@@ -50,7 +50,7 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=sxbrinz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
