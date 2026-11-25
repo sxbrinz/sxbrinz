@@ -63,11 +63,3 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
 </p>
 
 <br clear="both"/>
-
-### 📁 Meus Repositórios
-
-<!-- REPOS_START -->
-| Repositório | Descrição | Linguagem | Atualizado em |
-| :--- | :--- | :--- | :--- |
-| [PelApp---Prototype](https://github.com/sxbrinz/PelApp---Prototype) | Sem descrição | HTML | 2026-11-25 |
-<!-- REPOS_END -->
