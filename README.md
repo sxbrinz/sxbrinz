@@ -61,3 +61,10 @@ Me chamo Sabrina Teixeira, sou estudante do bacharelado em Ciência da Computaç
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxbrinz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 </p>
+
+<br clear="both"/>
+
+### 📁 Meus Repositórios
+
+<!-- REPOS_START -->
+<!-- REPOS_END -->
